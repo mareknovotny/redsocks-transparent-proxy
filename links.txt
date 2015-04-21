@@ -1,0 +1,3 @@
+http://bitsandbeers.eerieguide.com/2013/12/set-global-httphttps-proxies-on-xubuntu-using-iptables-and-redsocks/ 
+
+http://unixlab.blogspot.cz/2012/04/transparent-proxy-on-linux-using.html 
